@@ -1,0 +1,20 @@
+{
+    "name": "super7/javascript-bundle",
+    "description": "fork of removed symfony-javascript/javascript-bundle",
+    "type": "symfony-bundle",
+    "autoload": {
+        "psr-4": {
+            "Super7\\JavascriptBundle\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pakorek",
+            "email": "bda.webpro@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4.0",
+	    "symfony/framework-bundle": "^4.3"
+    }
+}
