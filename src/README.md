@@ -1,5 +1,5 @@
-> # This repository has moved to [symfony-javascript/javascript-bundle](//github.com/symfony-javascript/javascript-bundle).
-
+> # This repository was moved to [symfony-javascript/javascript-bundle](//github.com/symfony-javascript/javascript-bundle).
+It no exist anymore - so fork the old one and pray
 ---
 
 # Javascript Bundle
